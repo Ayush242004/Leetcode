@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ayush242004/Leetcode/tree/master/0001-two-sum) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayush242004/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ayush242004/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ayush242004/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Ayush242004/Leetcode/tree/master/0242-valid-anagram) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayush242004/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sorting
 |  |
 | ------- |
