@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ayush242004/Leetcode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Ayush242004/Leetcode/tree/master/0242-valid-anagram) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ayush242004/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ayush242004/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ayush242004/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -57,9 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Ayush242004/Leetcode/tree/master/0242-valid-anagram) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ayush242004/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayush242004/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Ayush242004/Leetcode/tree/master/0242-valid-anagram) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ayush242004/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
