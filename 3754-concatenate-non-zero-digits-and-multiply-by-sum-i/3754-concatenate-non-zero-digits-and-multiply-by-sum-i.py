@@ -1,0 +1,11 @@
+class Solution:
+    def sumAndMultiply(self, n: int) -> int:
+        digits = [int(d) for d in str(n) if d != '0']
+
+        if not digits:
+            return 0
+
+        x = int("".join(map(str, digits)))
+        s = sum(digits)
+
+        return x * s
