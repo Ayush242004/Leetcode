@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Ayush242004/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Ayush242004/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Ayush242004/Leetcode/tree/master/0268-missing-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Ayush242004/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ayush242004/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
@@ -172,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Ayush242004/Leetcode/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Ayush242004/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
