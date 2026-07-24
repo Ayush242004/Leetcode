@@ -9,3 +9,4 @@ class Solution:
             else:
                 c=0
         return b
+        
