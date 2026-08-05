@@ -156,11 +156,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/Ayush242004/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ayush242004/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/Ayush242004/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/Ayush242004/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ayush242004/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/Ayush242004/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ayush242004/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ayush242004/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Ayush242004/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/Ayush242004/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/Ayush242004/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
 |  |
 | ------- |
