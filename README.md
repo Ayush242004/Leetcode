@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Ayush242004/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Ayush242004/Leetcode/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ayush242004/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Ayush242004/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ayush242004/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ayush242004/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ayush242004/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Ayush242004/Leetcode/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Ayush242004/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ayush242004/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
 |  |
