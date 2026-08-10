@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/Ayush242004/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1084-sales-analysis-iii](https://github.com/Ayush242004/Leetcode/tree/master/1084-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Ayush242004/Leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1174-immediate-food-delivery-ii](https://github.com/Ayush242004/Leetcode/tree/master/1174-immediate-food-delivery-ii) |
 ## Simulation
 |  |
 | ------- |
