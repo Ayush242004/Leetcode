@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Ayush242004/Leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/Ayush242004/Leetcode/tree/master/1174-immediate-food-delivery-ii) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Ayush242004/Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [1729-find-followers-count](https://github.com/Ayush242004/Leetcode/tree/master/1729-find-followers-count) |
 ## Simulation
 |  |
 | ------- |
