@@ -13,6 +13,7 @@ class Solution:
 
         for x in nums1:
             if x % 2 == 1:
+                
                 continue
 
             if min_odd >= x:
